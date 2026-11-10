@@ -89,3 +89,10 @@
 | `GET /images/{image}` | нет | minio `GET /images/{image}` |
 
 Проверка токена: шлюз делает подзапрос `GET /v1/token/validation` в сервис security с тем же заголовком `Authorization`. Если ответ 2xx, запрос пропускается дальше, иначе клиент получает ошибку от security (401/403).
+
+<img width="1009" height="139" alt="image" src="https://github.com/user-attachments/assets/c22bc419-c654-426e-a037-409c53c38b84" />
+
+<img width="1899" height="48" alt="image" src="https://github.com/user-attachments/assets/854f8f0a-6454-4265-9e77-416485e76fbc" />
+
+<img width="1027" height="212" alt="image" src="https://github.com/user-attachments/assets/50d52a3c-9e32-4b11-bf7d-c03d596089c3" />
+
